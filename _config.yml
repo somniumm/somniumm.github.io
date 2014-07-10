@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          'MS'
-description:      'Architecture'
+title:            MS
+tagline:          'Architecture'
+description:      'Portfolio'
 url:              http://somniumm.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Meng S'
+  url:            https://twitter.com/
 
 paginate:         1
 
