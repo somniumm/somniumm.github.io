@@ -26,3 +26,5 @@ github:
 pages_list:       
   About: '/about'
   Archive: '/archive'
+  Architecture: '/architecture'
+  Engineering: '/engineering'
