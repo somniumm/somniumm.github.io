@@ -1,30 +1,44 @@
 ---
 layout: page
-title: About
+title: about
+permalink: /about/
 ---
+<img class="col one right" src="/img/prof_pic.jpg">
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<br/>
+architecture student at MIT. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+currently on leave..
 
-There are currently two themes built on Poole:
+likes: advance the way we process/retrivel information; architecture
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+hobby 2015: learning spanish
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+--
 
-## Setup
 
-Some fun facts about the setup of this project include:
+I've moved back to Cambridge 
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+... bye beijing ...
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+*Last update: 09/08/2015*
 
-Thanks for reading!
+
+
+
+
+<br/>
+<hr/>
+<br/>
+<span class="contacticon center">
+	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
+	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+</span>
+
+<div class="col three caption">
+	You can even add a little note about which of these is the best way to reach you.
+</div>
+
