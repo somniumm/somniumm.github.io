@@ -1,20 +1,13 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
-img: /img/2.jpg
+title: Folding Light
+description: design tool
+img: /img/light/1.png
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Parametric design // 2013 // Rhino, Grasshopper + Fab lab.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+Folding light is designed using parametric method with Rhino and Grasshopper and fabricated at the MIT fab lab. It embrace two basic premises. First, we test the reciprocity between two modes of design and confront the discordance between computer simulation and physical modeling. Second, because this is a design tool as opposed to a designed object, the project allowed us to input through implicit, variable and modifiable means of definition. Rather than a static output, we engaged parametric, simulative and genetic modeling methods. 
 
 
 <div class="img_row">
