@@ -1,8 +1,13 @@
 ---
 layout: post
-title: Superpastructure 
-description: a project with a background image
-img: /img/bolivar.jpg
+title: Supera structure 
+description: new urban space
+img: /img/supera/1.jpg
 ---
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/hR-Ap8mtODM" frameborder="0" allowfullscreen></iframe>
+<img src="{{ site.baseurl }}/img/supera/1.png" width="700">
+
+<img src="{{ site.baseurl }}/img/supera/2.jpg" width="700">
+<img src="{{ site.baseurl }}/img/supera/3.jpg" width="700">
+<img src="{{ site.baseurl }}/img/supera/4.jpg" width="700">
+<iframe width="700" height="440" src="https://www.youtube.com/embed/9nSnEqGGGS8"></iframe>
