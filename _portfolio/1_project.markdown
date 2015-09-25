@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HEX
-description: Art Installation
+description: art installation
 img: /img/hex/hex120.png
 ---
 

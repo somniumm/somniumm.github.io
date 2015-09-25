@@ -5,44 +5,26 @@ description: design tool
 img: /img/light/1.png
 ---
 
-Parametric design // 2013 // Rhino, Grasshopper + Fab lab.
+Parametric design // 2013 // Rhino, Grasshopper + Fab lab
 
 Folding light is designed using parametric method with Rhino and Grasshopper and fabricated at the MIT fab lab. It embrace two basic premises. First, we test the reciprocity between two modes of design and confront the discordance between computer simulation and physical modeling. Second, because this is a design tool as opposed to a designed object, the project allowed us to input through implicit, variable and modifiable means of definition. Rather than a static output, we engaged parametric, simulative and genetic modeling methods. 
 
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
+<img src="{{ site.baseurl }}/img/light/1.png" width="700">
+<img src="{{ site.baseurl }}/img/light/2.png" width="700">
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+<img src="{{ site.baseurl }}/img/light/3.png" width="700">
 
+<img src="{{ site.baseurl }}/img/light/4.png" width="700">
 
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+<img src="{{ site.baseurl }}/img/light/5.png" width="700">
 
+<img src="{{ site.baseurl }}/img/light/6.png" width="700">
 
-<br/><br/><br/>
+<img src="{{ site.baseurl }}/img/light/7.png" width="700">
+<img src="{{ site.baseurl }}/img/light/8.png" width="700">
+<img src="{{ site.baseurl }}/img/light/9.png" width="700">
 
+<img src="{{ site.baseurl }}/img/light/10.png" width="700">
+<img src="{{ site.baseurl }}/img/light/11.png" width="700">
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>

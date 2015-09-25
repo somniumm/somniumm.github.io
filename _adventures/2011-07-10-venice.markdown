@@ -1,0 +1,7 @@
+---
+layout: post
+title: Venice 2015 
+date: 2015-06-20 
+---
+
+<iframe width="700" height="440" src="https://www.youtube.com/embed/B3OgEwm9W1g" frameborder="0" allowfullscreen></iframe>    
