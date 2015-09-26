@@ -2,27 +2,8 @@
 layout: post
 title: mexue education app   
 ---
-we were never caught    
-    
-we partied the southwest, smoked it from L.A. to El Dorado     
-worked odd jobs between delusions of escape    
-drunk on the admonitions of parents, parsons & professors     
-driving faster than the road or law allowed.     
-our high-pitched laughter was young, heartless & disrespected     
-authority. we could be heard for miles in the night     
-    
-the Grand Canyon of a new manhood.    
-womanhood discovered    
-like the first sighting of Mount Wilson    
-    
-we rebelled against the southwestern wind     
-    
-we got so naturally ripped, we sprouted wings,      
-crashed parties on the moon, and howled at the earth     
-    
-we lived off love. It was all we had to eat    
-    
-when you split you took all the wisdom    
-and left me the worry     
 
-### Wanda Coleman
+<img src="{{ site.baseurl }}/img/mexue/diagram.jpg" width="700">
+
+
+<iframe width="700" height="480" src="https://www.youtube.com/embed/_eInLVKSkrw" frameborder="0" allowfullscreen></iframe>
