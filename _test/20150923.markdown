@@ -3,7 +3,8 @@ layout: post
 title: mexue education app   
 ---
 
+<img src="{{ site.baseurl }}/img/mexue/1.jpg" width="700">
+<img src="{{ site.baseurl }}/img/mexue/2.jpg" width="700">
+<img src="{{ site.baseurl }}/img/mexue/3.jpg" width="700">
 <img src="{{ site.baseurl }}/img/mexue/diagram.jpg" width="700">
-
-
 <iframe width="700" height="480" src="https://www.youtube.com/embed/_eInLVKSkrw" frameborder="0" allowfullscreen></iframe>

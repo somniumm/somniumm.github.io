@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  On BIM
+title:  thoughts on building information modeling
 date:   2015-03-15 16:40:16
-description: thoughts on BIM (building information modeling)
+description: 
 ---
 
 1. BIM takes in geometry in properties rather than points. Thiis fundamentally differentiates it from other 3D modeling software such as Rhino etc. A column in a BIM software such as Revit is identified as "column", not a NURBS or surface or its geometrical proprieties.
 
 2. Data mining can be applied to BIM platform. Example such as
-2.1 For running building simulation, information pulled from BIM model can directly feed simulation software. Such a step of making a 3d modeling is reduced. 
-2.2 On the scale of design one building, using sensor data can help architects make design decision such as where to make a path or place a furniture. 
-2.3 scan space through camera (forgot the term: photo...) . Allow 
-a thesis student did work on analyze flickr photos people take for a famous architecture from different perspectives. It's possible to apply the method to study building circulations and other building decisions.
+	2.1 For running building simulation, information pulled from BIM model can directly feed simulation software. Such a step of making a 3d modeling is reduced. 
+	2.2 On the scale of design one building, using sensor data can help architects make design decision such as where to make a path or place a furniture. 
+	2.3 scan space through camera (forgot the term: photo...) . Athesis student did work on analyze flickr photos people take for a famous architecture from different perspectives. It's possible to apply the method to study building circulations and other building decisions.
 
 3. End user driven design approach. 
-New tools are enabling end users be engaged in building design process. By providing data or by crowd sourcing.
+New tools encourage end users be involved in building design process.By providing data or by crowd sourcing.

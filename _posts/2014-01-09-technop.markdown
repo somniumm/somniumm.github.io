@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  On techno-politics 
-date: 2014-01-09 21:01:00
-description: How to understand Michel Foucault’s concept of security and its distinction from sovereign and discipline? 
+title:  on techno-politics 
+date: 2014-01-09 21:01:00 
+description: Michel Foucault’s concept of security and its distinction from sovereign and discipline 
 --- 
 
 #### *Thoughts on Michel Foucault’s concept of security and its distinction from sovereign and discipline* 
