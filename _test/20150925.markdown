@@ -1,0 +1,16 @@
+---
+layout: post
+title: pictionary
+---
+
+How can one message get to spreaded cross languages? 
+
+Inspired by the board game *pictionary*, I tried to protytpe a site to explore to how message can get from one message to another.  
+
+<a href="http://pictionary6470.meteor.com">
+<img src="{{ site.baseurl }}/img/pictionary/cover.jpg" width="700"></a>
+
+
+-- 
+
+stopped maintainace.. 50% done. 

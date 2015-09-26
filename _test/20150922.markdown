@@ -1,7 +1,6 @@
 ---
 layout: post
-title: asklocal   
-date: 2015-08-06 07:59:00
+title: notes on paper information retrival / notes taking   
 ---
 we were never caught    
     

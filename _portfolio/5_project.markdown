@@ -2,8 +2,12 @@
 layout: post
 title: Supera structure 
 description: new urban space
-img: /img/supera/1.jpg
+img: /img/supera/cover.jpg
 ---
+
+High density cities need space to expand. 
+
+How can city grow upwards with vertical infrastructure? 
 
 <img src="{{ site.baseurl }}/img/supera/1.png" width="700">
 
