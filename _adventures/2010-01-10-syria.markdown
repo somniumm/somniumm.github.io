@@ -1,13 +1,23 @@
 ---
 layout: post
 title: Syria 2010
-date: 2010-01-10 07:59:00
 ---
 
 <img src="https://lh3.googleusercontent.com/SJCl1L-a8GXl_AnJK2uXsA-Dr5nnwlQVM75mJH2jlpt1KVYKzaLCTl6Bdd94nzVdXrCiWUQ8E1oGnYZbkCsVSytLcx_Noy-dY3jN80VRZYM3Py1N99-4sxxhccDy-g5JN3h8jEgfjS9PIXaQfwLf3PxQdkNUIGQBHEqB7buUgZvAFFQF2AmmdoZ5fle1G8ajCmGIyuwiXqD_FjaNnknhvzXKEEJxvOG5jlhzx4NRkUqjrLB5cME68FER9D9dMni1MPjbWTvz73XbamrBogfcRjBev1nQ8ht_7DIwtUmQY-OA8J_YszXF5SbRRktnfpbh6sEiuMPOO4c0DbG4p_lzRqikc2QJJte62OcYORY5rwP4jHa_MCQ9vSFV09MMTIvLFbo65NXP7S5twmZLqVnNZpYwVYu_eDLk07UkVRUBf-0E_e9dRWd8UbpENYKZWsgOnDtt10LvxdB4dZFVqYSM1Mc1U6QauovIGc-wFUZ7wLUxyADxG8cDAl-YQz3iibYUS8TsLdAr9n7O3Jt-fEw_w8mcFzwILzGwGPfbm2qdf8G8=w1764-h1322-no" width="700" height="400">
 
 
-Syria, once in peace   
-    
+Syria once in peace   
+
+<img src="{{ site.baseurl }}/img/syria/collage1.png" width="700">    
+<img src="{{ site.baseurl }}/img/syria/2.jpg" width="700">
+
+<img src="{{ site.baseurl }}/img/syria/1.jpg" width="700" height="500">
+<img src="{{ site.baseurl }}/img/syria/collage3.png" width="700">
+<img src="{{ site.baseurl }}/img/syria/3.jpg" width="700" height="400">
+<img src="{{ site.baseurl }}/img/syria/7.jpg" width="700">
+<img src="{{ site.baseurl }}/img/syria/collage4.png" width="700">
+<img src="{{ site.baseurl }}/img/syria/5.jpg" width="700">
+<img src="{{ site.baseurl }}/img/syria/6.jpg" width="700">
+<img src="{{ site.baseurl }}/img/syria/collage2.png" width="700">
 
 

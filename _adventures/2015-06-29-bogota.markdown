@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bogotá 2015
-date: 2015-06-29 
 ---
 
 <img src="{{ site.baseurl }}/img/bogota/1.jpg" width="700">

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rwanda 2012 
-date: 2015-06-20 
 ---
 
 <div class="img_row">
