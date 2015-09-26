@@ -1,0 +1,95 @@
+---
+layout: post
+title: QR code paster 
+date: 2013-09-24 15:09:00
+description: script to mass paste qr codes to documents
+---
+[QR code paster](https://www.dropbox.com/sh/3y0zpgdeglhkqyp/AABu36O15NxMijfbiGpmmmWDa?dl=0) (complete package with sample qr code)
+
+
+
+### about
+<br>
+This script allows you to paste multiple distinct QR codes to an image.  
+
+How to use:
+
+1. Download package and replace imagebg.jpg with image where you'd like to paste qr codes to. 
+2. Put all QR code images into foler qr_inputs. Name qr images qr_0,qr_1,...qr_n. Resize the image size to final size in pxiel. 
+3. Open QRpaster.html in editor, set background image size and qr code location. 
+4. Open QRpaster.html in browser, follow the instruction to download final images with qr codes. 
+
+
+### code
+<br>
+{% highlight c++ %}
+
+<!--
+  background image is named imagebg.jpg
+  qr codes are stored in the qr_inputs directory, with the names qr_0.png ... qr_(n-1).png
+-->
+
+<!DOCTYPE html>
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<body>
+<h1>PASTE QR CODE to page</h1>
+
+<script>
+// init canvas to the right size
+var BG_Width = 2480; // defualt A4. width of paper 
+var BG_Height = 3508; // default A4. height of paper
+var QR_X = 864;  // position of x, see reference page
+var QR_Y = 745;  // position of y, see reference page 
+var NUM_QR = 6;
+
+function genCanvas() {
+  for (var i=0; i<NUM_QR; i++) {
+    var canvas = document.createElement('canvas');
+    canvas.id = "myCanvas".concat(i.toString());
+    canvas.width = BG_Width;
+    canvas.height = BG_Height;
+    
+    var theDiv = document.getElementById("canvass");
+    theDiv.appendChild(canvas);
+  }
+}
+
+function drawCanvas() {
+    // draw background image first
+    var imagebg = new Image();
+    imagebg.src = "imagebg.jpg";
+
+    // start drawings
+    for (var i=0; i<NUM_QR; i++) {
+      var qr = new Image();
+      var idstr = i.toString();
+      qr.src = "qr_inputs/qr_".concat(idstr, ".png");
+      var ctx = document.getElementById("myCanvas".concat(idstr)).getContext("2d");
+      ctx.drawImage(imagebg,0,0,BG_Width, BG_Height);
+      ctx.drawImage(qr,QR_X,QR_Y);
+    };
+}
+
+</script>
+
+<p><button onclick="genCanvas()">Step one: click here once (create canvas) </button></p>
+<p><button onclick="drawCanvas()">Step two: click here TWICE (draw canvas) </button></p>
+
+<!-- canvas -->
+<div id="canvass">
+</div>
+
+
+</body>
+</html>
+
+{% endhighlight %}
+
+script to resize multiple images. run it in shell, change to image directory first.  
+{% highlight c++ %} 
+for i in *.jpg; 
+do convert $i -resize 50% $(basename $i).jpg; done
+{% endhighlight %}
+
+

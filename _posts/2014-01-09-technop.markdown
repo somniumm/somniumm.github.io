@@ -1,0 +1,51 @@
+---
+layout: post
+title:  On techno-politics 
+date: 2014-01-09 21:01:00
+description: How to understand Michel Foucault’s concept of security and its distinction from sovereign and discipline? 
+--- 
+
+#### *Thoughts on Michel Foucault’s concept of security and its distinction from sovereign and discipline* 
+
+<br>
+<img src="{{ site.baseurl }}/img/post/foucault.jpg" width="300">
+
+
+### 1
+<br> 
+The book, *Security*, *Territory*, *Population*, consists of Michel Foucault’s lectures at the Collage de France between 1977-78.  These lectures discuss on the issue of government and the first three chapters concentrate on security. At the heart of Foucault’s concept of security is what he calls “freedom of movement (laisser-passer)” and a mechanism based on reality . Following his distinctions between sovereignty, disciplinary, and security ociety, Foucault shows the mechanism shift from “sovereignty over territory”, then to “discipline over individuals”, and then to “security regulation of population”.I will explicate Foucault’s concept of security and its distinction from sovereignty and discipline.  
+<br> 
+
+### 2
+<br> 
+Foucault concludes four features of the apparatuses of security: 1) spaces of security; 2) aleatory; 3) normalization; 4) population emergence. Foucault contends that the spatial distribution for sovereignty, discipline and security is equally important but each maintains different organizational structure. “Sovereignty is exercised within the borders of a territory, discipline is exercised on the bodies of individuals, and security is exercised over a whole population” . As the emergence of government, “no longer the safety of the Prince and his territory, but the security of the population” becomes more important . 
+
+Foucault draws a clear distinction among security, sovereign (law) and discipline. While law is understood as a negative power that prohibits and forbids, and while discipline is understood as a positive power that prescribes and obligates, in Foucault’s opinion, security is neither a negative nor positive power. 
+“ [..] in the apparatus of security, [..] what is involved is precisely not taking either the pout of view of what is prevented or the point of view of what is obligatory, but standing back sufficiently so that one can grasp the point at which things are taking place, whether or not they are desirable.” 
+
+The mechanism of security works on the basis of reality, in other words, at the level of people’s nature . Foucault argues that security ‘let’s things happen’ and then reacts to this reality in a certain way in order to cancel out or neutralize its risky effects . He believes such regulation is fundamental in apparatuses of security. Whereas law “works in the imaginary” and discipline “works in a sphere complementary to reality”, security tries to work within reality. 
+
+To further explicate the distinctions, Foucault differentiates security from disciplines in three ways. First of all, he claims that security is centrifugal. “The apparatuses of security [..] have the constant tendency to expand; they are centrifugal [..] Security therefore involves organizing, or anyway allowing the development of ever-wider circuits.”  Secondly, “discipline does not deal with details in the same way as apparatuses of security”. Whereas discipline regulates everything, security allows small things to run their course. “The apparatus of security [..] ‘lets things happen’, not that everything is left alone, but laissez-faire id indispensable at a certain level.”   Thirdly, whereas law development focuses on greater precision of specification, and whereas discipline details on things that must be done, security does attempts to achieve certain equilibrium of the behavior. In summary, security differs significantly from discipline and law. As Foucault explained: “An apparatus of security [..] cannot operate well except on condition that it is given freedom, in the modern sense that it acquires in the eighteenth century: no longer the exemptions and privileges attached to a person, but the possibility of movement, change of place, and processes of circulation of both people and things.” 
+
+> “Sovereignty capitalizes a territory, raising the major problem of the seat of government, whereas discipline structures a space and addresses the essential problem of a hierarchical and functional distribution of elements, the security will try to plan a milieu [...] that will have to be regulated within a multivalent and transformable framework”. 
+
+Speaking of the relationship among sovereign, discipline, and security, Foucault believes that sovereignty and disciplinary elements will still exist in security society. They will be subsumed as elements of the security society. “Technology of security, for example, will be set up, taking up again and sometimes even multiplying juridical and disciplinary elements and redeploying them within its specific tactic” . Technologies [of security] consists to a great extent in the reactivation and transformation of the legal technique and the disciplinary techniques.   
+<br> 
+
+### 3
+<br> 
+Foucault emphasized the core of security is new technique of “curbing scarcity by [..] a certain ‘freedom of movement’, in the sense of ‘letting things take their course.”  In contrast to the sovereignty and disciplinary techniques that concentrate on regulating and prohibition, techniques of security requires the freedom of movement and circulation.
+
+The mercantilist policies that “practically dominated Europe from the start of the seventeenth until the start of the eighteenth century,” is called by Foucault to be “an anti-scarcity system” . For a long time, scarcity was countered by a “juridical and disciplinary” system which intends to prevent food shortage, “not just to eradicate it when it occurs, but literally to prevent it and ensure that it cannot take place at all” . The techniques focused on protecting the wealth of the state by preventing the phenomenon of scarcity from occurring.  As scarcity appease as one of the fundamental forms of bad fortune for a people and for a sovereign, a “juridical and disciplinary” system intends “ not just to eradicate it when it occurs, but literally to prevent it and ensure that it cannot take place at all” . The regulations were placed on the pricing, cultivating, and trading of grain, in order to keep grain prices as low as possible for peasant population .
+Rather than trying to prevent scarcity from occurring, in late 17th century, a new scarcity policy emerged that allows free fluctuations in the price, supply, demand and circulation of grain to occur, in the expectation that else processes would eventually reach a balance, and provide an adequate supply of grain. The approach was based on the free circulation of grain within, and between nations and was adopted by France in 18th century. 
+
+In the case of food shortage, the new technique allows grain prices to rise where their tendency is to rise . The phenomenon, in Foucault’s opinion, will itself “entail precisely its own self-curbing and self-regulation” . By limiting scarcity to occurring in individuals, it prevents the massive form of scourge, providing economic-political security for government. He emphasizes the free circulation as apparatus of security.
+
+“An apparatus of security, in any case the one I have spoken about, cannot operate well except on condition that it is given freedom, in the modern sense [the word] acquires in the eighteenth century: no longer the exemptions and privileges attached to a person, but the possibility of movement, change of place, and processes of circulation of both people and things. I think it is this freedom of circulation, in the broad sense of the term, it is in terms of this option of circulation, that we should understand the word freedom, and understand it as one of the facets, aspects, or dimensions of the deployment of apparatuses of security. 
+<br> 
+
+### 4
+<br> 
+The concept of security, in Foucault’s view, is distinguished from sovereign and discipline in terms of security is a naturalized power. Foucault considers security as a way of “making the old armatures of law and discipline function in addition to the specific mechanisms of security” .  “Freedom of movement (laisser-passer)” and a mechanism based on reality is the core of Foucault’s apparatuses of security. Following the emergence of government, the security of the population, and of consequently who governs it, will be taking a more significant role. 
+
+
