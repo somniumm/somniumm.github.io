@@ -1,6 +1,6 @@
 ---
 layout: post
-title: uArm developer platform
+title: uArm Developer - development platform for robotics arm
 ---
 
 uArm is a robotic arm manipulator, an actuator that moves in 3-Demisional space. The goal is by controlling the four servos simultaneously to move end effector in a volume of space.

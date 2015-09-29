@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pictionary
+title: Pictionary
 ---
 
 How can one message get to spreaded cross languages? 

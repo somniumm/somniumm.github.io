@@ -1,6 +1,6 @@
 ---
 layout: post
-title: asklocal - explore new place like locals  
+title: AskLocal - explore new place like locals  
 ---
 
 AskLocal connects tourists with locals in real time through google glass. It allows tourists to ask locals questions with photos as they traverse a new place. Question is submitted to a selected group of locals who will response to it within a few seconds.

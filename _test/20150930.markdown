@@ -1,0 +1,42 @@
+---
+layout: post
+title: MX education app 
+---
+
+MX is an educational app (iOS + Android) that connects teachers and parents focusing on public primary schools in China. There are two versions of the app: one for teachers and one for parents. The platform allows teachers and parents to share moments of student's life whenever they are. Moments are automatically generated into a unique yearbook for each individual student. The app also contains a commuication tool for parents and teachers to reach eath other.
+
+
+<div class="col three caption">
+	login pages (v1.0)
+</div>
+<img src="{{ site.baseurl }}/img/mexue/1.jpg" width="700">
+<div class="col three caption">
+	communication pages (v1.0)
+</div>
+<img src="{{ site.baseurl }}/img/mexue/2.jpg" width="700">
+<div class="col three caption">
+	moments pages (v1.0)
+</div>
+<img src="{{ site.baseurl }}/img/mexue/3.jpg" width="700">
+<div class="col three caption">
+	user setting for teacher(left) and parent(right) (v1.0)
+</div>
+<img src="{{ site.baseurl }}/img/mexue/diagram.jpg" width="700">
+<div class="col three caption">
+ 	beta app of parent version
+</div>
+<iframe width="700" height="480" src="https://www.youtube.com/embed/_eInLVKSkrw" frameborder="0" allowfullscreen></iframe>
+<div class="col three caption">
+ 	printed yearbook from moments
+</div>
+<img src="{{ site.baseurl }}/img/mexue/4.jpg" width="400">
+
+
+<br>
+
+	---
+	year: 2015
+	Designed the initial product till version 2.0
+	Oversaw part of the engineering team  
+	---
+

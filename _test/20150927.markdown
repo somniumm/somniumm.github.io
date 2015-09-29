@@ -1,6 +1,7 @@
 ---
 layout: post
-title: streetfarer random jog path generateor    
+title: Streetfarer - random path geneator for urban explorer
+description: tests   
 ---
 
 <a href="http://streetfarer.heroku.com/">

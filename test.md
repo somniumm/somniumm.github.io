@@ -2,7 +2,7 @@
 layout: page
 permalink: /test/
 title: project
-description: projects, ideas
+description: side projects on deisng and coding
 ---
 
 <ul class="post-list">
@@ -13,3 +13,4 @@ description: projects, ideas
       </li>
 {% endfor %}
 </ul>
+
