@@ -1,0 +1,7 @@
+---
+layout: post
+title:  marfa social housing
+description:  
+---
+
+<img src="{{ site.baseurl }}/img/foundertea.png" alt="" title="example image" width="700">

@@ -8,11 +8,8 @@ permalink: /about/
 <br/>
 architecture student at MIT. 
 
-currently on leave..
+currently on a break..
 
-likes: advance the way we process/retrivel information; architecture
-
-hobby 2015: learning spanish
 
 --
 
@@ -31,7 +28,7 @@ I've moved back to Cambridge
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="sunmmm@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="mailto:sunmmm@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://twitter.com/beliefooo" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
