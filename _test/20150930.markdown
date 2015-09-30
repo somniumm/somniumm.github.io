@@ -1,0 +1,29 @@
+---
+layout: post
+title: AskLocal - explore new place like locals  
+---
+
+AskLocal connects tourists with locals in real time through google glass. It allows tourists to ask locals questions with photos as they traverse a new place. Question is submitted to a selected group of locals who will response to it within a few seconds.
+
+A fully functional prototype was developed on the glass. Paper accepted to HCI international 2015. 
+
+
+<img src="{{ site.baseurl }}/img/asklocal/cover.png" width="700">
+
+<img src="{{ site.baseurl }}/img/asklocal/diagram.png" width="700">
+
+<iframe width="700" height="460" src="https://www.youtube.com/embed/C_A3avL2CiU" frameborder="0" allowfullscreen></iframe>
+<br>
+---
+<br>
+
+
+We explored the ways of utilizing wearable technologies and social networking to cultivate a medium of cultural exchange between local communities and travelers in order to preserve and share local cultures. As wearable devices emerge and become a mainstream technology, a massive amount of potentials rises to empower micro-cultural habitats to present genuine characteristics of cities and neighborhoods to visitors through introducing contextualized and just-in-time communication. We introduce AskLocal, a novel location-based assisting system that mediates the communication between visitors and locals, allowing visitors to make real-time queries using Google Glass, and gather the user-generated information provided by the local network. We developed and tested a prototype that allows tourists to ask questions with our Google Glass application and receive local’s answers on the device’s display. Proposed system allows visitors to communicate a particular context that they encounter such as wayfinding in the city or making decisions on leisure activities. User testing demonstrated that the prototype adds a new level of freedom that allows tourists to traverse an unfamiliar place while providing them personalized information. We argue that proposed system encourages strangers to engage in more genuine communications that can be utilized in specific cultural contexts including culinary tourism, micro-history, and local merchandise.
+
+---
+
+	Year: 2014
+	Initial project designed and coded by me and K.Culpreet.
+	Paper collberated with C.Zaman and K.Culpreet. 
+
+
