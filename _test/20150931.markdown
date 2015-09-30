@@ -10,9 +10,11 @@ MX is an educational app (iOS + Android) that connects teachers and parents focu
 	login pages (v1.0)
 </div>
 <img src="{{ site.baseurl }}/img/mexue/1.jpg" width="700">
+
 <div class="col three caption">
 	communication pages (v1.0)
 </div>
+
 <img src="{{ site.baseurl }}/img/mexue/2.jpg" width="700">
 <div class="col three caption">
 	moments pages (v1.0)
