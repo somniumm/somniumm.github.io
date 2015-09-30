@@ -3,9 +3,12 @@ layout: post
 title: Pictionary
 ---
 
-How can one message get to spreaded cross languages? 
+How can one message get to spread cross different people/languages? 
 
-Inspired by the board game *pictionary*, I tried to protytpe a site to explore to how message can get from one message to another.  
+Inspired by the board game *pictionary*, I tried to protytpe a site to explore to how message meanings are evolved when traslating across languages and illustrations. 
+
+Original message (in lanugage A by user X) -> Illustrated in drawing (by user Y who reads language A) -> Routed to and discribed by another user Z who speaks language B -> ... 
+
 
 <a href="http://pictionary6470.meteor.com">
 <img src="{{ site.baseurl }}/img/pictionary/cover.jpg" width="700"></a>
@@ -13,4 +16,6 @@ Inspired by the board game *pictionary*, I tried to protytpe a site to explore t
 
 -- 
 
-stopped maintainace.. 50% done. 
+	Yeah 2015 
+	individual project. frondend + backend both in js. 
+	stopped developing.. 30% done. 

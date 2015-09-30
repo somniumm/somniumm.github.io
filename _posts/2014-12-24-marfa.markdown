@@ -1,7 +1,17 @@
 ---
 layout: post
 title:  marfa social housing
-description:  
+
 ---
 
-<img src="{{ site.baseurl }}/img/foundertea.png" alt="" title="example image" width="700">
+<img src="{{ site.baseurl }}/img/marfa/1.jpg" alt="" title="example image" width="700">
+<img src="{{ site.baseurl }}/img/marfa/2.jpg" alt="" title="example image" width="700">
+<img src="{{ site.baseurl }}/img/marfa/3.jpg" alt="" title="example image" width="700">
+<img src="{{ site.baseurl }}/img/marfa/4.jpg" alt="" title="example image" width="700">
+<img src="{{ site.baseurl }}/img/marfa/5.jpg" alt="" title="example image" width="700">
+<img src="{{ site.baseurl }}/img/marfa/6.jpg" alt="" title="example image" width="700">
+<img src="{{ site.baseurl }}/img/marfa/8.jpg" alt="" title="example image" width="700">
+<img src="{{ site.baseurl }}/img/marfa/9.jpg" alt="" title="example image" width="700">
+<img src="{{ site.baseurl }}/img/marfa/10.jpg" alt="" title="example image" width="700">
+<img src="{{ site.baseurl }}/img/marfa/11.jpg" alt="" title="example image" width="700">
+<img src="{{ site.baseurl }}/img/marfa/12.png" alt="" title="example image" width="700">

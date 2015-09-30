@@ -4,5 +4,11 @@ title: Streetfarer - random path geneator for urban explorer
 description: tests   
 ---
 
+[Streetfarer](http://streetfarer.heroku.com/) is a random path geneator based on runner's preference. 
+
+
 <a href="http://streetfarer.heroku.com/">
 <img src="{{ site.baseurl }}/img/streetfarer/street.png" width="700"></a>
+
+	Year 2014
+	70% finished..
