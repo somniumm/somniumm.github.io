@@ -3,7 +3,7 @@ layout: post
 title: MX education app 
 ---
 
-MX is an educational app (iOS + Android) that connects teachers and parents focusing on public primary schools in China. There are two versions of the app: one for teachers and one for parents. The platform allows teachers and parents to share moments of student's life whenever they are. Moments are automatically generated into a unique yearbook for each individual student. The app also contains a commuication tool for parents and teachers to reach eath other.
+MX is an educational app (iOS + Android) that connects teachers and parents focusing on public primary schools in China. The app has in two versions: one for teachers and one for parents. The platform allows teachers and parents to share moments of student's life whenever they are. Moments are automatically generated into a unique yearbook for each individual student. The app also serves as a commuication tool for parents and teachers to reach eath other.
 
 
 <div class="col three caption">
