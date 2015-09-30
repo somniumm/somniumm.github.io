@@ -4,4 +4,6 @@ title:  logo sketch
 description: logo sketch for a hardware incubator cafe 
 ---
 
+a friend came to me for a logo for a cafe in his hardware incubator. here's my idea draft 
+
 <img src="{{ site.baseurl }}/img/foundertea.png" alt="" title="example image" width="700">
