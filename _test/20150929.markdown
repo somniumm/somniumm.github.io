@@ -5,7 +5,7 @@ title: uArm Developer - development platform for robotics arm
 
 uArm is a open source desktop robotic arm manipulator.  
 
-I initiated a development platform that makes it easier for users to build their own applications for uArm. With two other friends, we built a beta version of the platform with an API library, basic communication protocols, processing SDK (python SDK coming soon). 
+I initiated a development platform that makes it easier for users to build their own applications for uArm. We built a beta version of the platform with an API library, basic communication protocols, processing SDK (python SDK coming soon). 
 
 [uArm Developer (beta)](http://developer.ufactory.cc/)
 
