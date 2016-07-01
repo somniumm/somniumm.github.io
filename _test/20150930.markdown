@@ -26,7 +26,5 @@ We explored the ways of utilizing wearable technologies and social networking to
 ---
 
 	Year: 2014
-	Initial project designed and coded by K Chilana and I.
-	C.H.Zaman helped on writing the paper
 
 
